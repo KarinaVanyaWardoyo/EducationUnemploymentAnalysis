@@ -4,3 +4,7 @@ Global education access and quality still face challenges such as dropout rates,
 # Dataset Link
 https://www.kaggle.com/datasets/bhavikjikadara/entire-world-educational-data
 
+# Poster for Analytics and Data Visualizations
+https://www.canva.com/design/DAGpYUUIG3o/8xfutAnEg2980NfOc7O_LQ/edit?utm_content=DAGpYUUIG3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
+# ⚠️ Import the RMarkdown file to your R language compiler to use ⚠️
